@@ -1,7 +1,7 @@
 {
-  "name": "employee-summary",
+  "name": "employees-summary",
   "version": "1.0.0",
-  "description": "\"OOP and testing for week 10 Homework\"",
+  "description": "",
   "main": "app.js",
   "directories": {
     "lib": "lib",
@@ -16,6 +16,14 @@
   "scripts": {
     "test": "jest --verbose test/*"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saipurciful/Employees-Summary.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saipurciful/Employees-Summary/issues"
+  },
+  "homepage": "https://github.com/Saipurciful/Employees-Summary#readme"
 }
