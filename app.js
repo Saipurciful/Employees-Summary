@@ -12,13 +12,7 @@ const render = require("./lib/htmlRenderer");
 
 const employees = [];
 
-/*
- 1.ask user for which role of employee do they want to add
- 2. base on the selection, ask question 
- 3. after questions answered, give option if want to add more employee
-  3a. if done, wanna build dir
-  3b. if not, wanna go back to step 1
-*/
+
 
 function teamMembers() {
     inquirer.prompt([
