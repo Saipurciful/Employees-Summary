@@ -36,7 +36,7 @@ I encourage public contributions.
 
 ## Tests Instructions
 
-The Command Line Application will prompt a user a multiple choices for team member's role. Once the user choose the role, the Command Line Application will prompt the questions about the member's information. The user can choose as much as member they want to completed the team. Once the user answered all the questions, the Command Line application will generate an HTML webpage that displays summaries of each person in the team. 
+The Command Line Application will prompt a user a multiple choices for team member's role. Once the user choose the role, the Command Line Application will prompt the questions about the member's information. The user can choose as much as members they want to complete the team. Once the user answered all the questions, the Command Line application will generate an HTML webpage that displays summaries of each person in the team. 
 
 ## How to: npm run test
 * In Command Line Application: npm i jest -cli
@@ -50,7 +50,7 @@ The Command Line Application will prompt a user a multiple choices for team memb
 
 ## Demonstration Video
 
-![](https://media.giphy.com/media/tjShNrFPPje3LfNq91/giphy.gif) 
+![](https://media.giphy.com/media/1OvkSDyQsHUzSK0BVc/giphy.gif) 
 
 * Link to Demonstration on YouTube: https://www.youtube.com/watch?v=WzKGnGd7W9o&feature=youtu.be
 
